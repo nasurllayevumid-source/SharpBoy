@@ -26,9 +26,6 @@
 ## 🖥️ How to Use
 
 ### Download
-
-Get the latest release from the [Releases](https://github.com/nasurllayevumid-source/SharpBoy/releases) page.
-
 ### Run
 
 Drag and drop a `.gb` or `.gbc` ROM file onto `SharpBoy.exe`, or use the command line:
