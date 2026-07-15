@@ -23,12 +23,3 @@
 
 ---
 
-## 🖥️ How to Use
-
-### Download
-### Run
-
-Drag and drop a `.gb` or `.gbc` ROM file onto `SharpBoy.exe`, or use the command line:
-
-```bash
-SharpBoy.exe pokemon.gb
